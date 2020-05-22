@@ -1,2 +1,2 @@
 # jdstream
-JavsScript/Plugin for JD2 to stream some media/Part-Archiv by download.
+JavsScript/Plugin for JDownloader to stream some media/Part-Archiv-File while downloading
